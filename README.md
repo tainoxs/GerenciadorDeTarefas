@@ -1,4 +1,4 @@
-# DesafioHoraDePraticar3 - Gerenciador de Tarefas
+# Gerenciador de Tarefas
 
 Este é um programa simples em Java para gerenciamento de tarefas. Ele permite ao usuário adicionar tarefas, visualizar a lista de tarefas e marcar uma tarefa como concluída (removendo-a da lista). O programa é interativo e usa um menu no console para navegação.
 
