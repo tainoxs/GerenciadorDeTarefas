@@ -35,13 +35,4 @@ Este é um programa simples em Java para gerenciamento de tarefas. Ele permite a
 5. **Finalizar o Programa:**
    - Selecione `4` para finalizar o programa.
 
-## Requisitos
 
-- **Java 8 ou superior**
-
-## Como executar
-
-1. Clone ou baixe o repositório.
-2. Compile o arquivo Java com o comando:
-   ```bash
-   javac DesafioHoraDePraticar3.java
